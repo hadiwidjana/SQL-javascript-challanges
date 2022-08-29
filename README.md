@@ -17,7 +17,7 @@ npm intall
 npm run task6
 ```
 
-- change task6 to (task7/task8/..../task10) to run the other tasks. i.e
+- change task6 to (task7/task8/task9/task10) to run the other tasks. i.e
 ```
 npm run task10
 ```
