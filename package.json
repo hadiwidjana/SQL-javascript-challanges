@@ -1,0 +1,18 @@
+{
+  "name": "js-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task6": "node Task6/Task6.js",
+    "task7": "node Task7/Task7.js",
+    "task8": "node Task8/Task8.js",
+    "task9": "node Task9/Task9.js",
+    "task10": "node Task10/Task10.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
