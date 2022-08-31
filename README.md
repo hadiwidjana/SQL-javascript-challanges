@@ -1,7 +1,13 @@
-# javascript-challanges
-Here is my answers to task number 6 to 10
+# SQL-javascript-challanges
+Here is my answers to tugas week 6
 
-## Installation Guides
+## SQL 
+### Task no 1 to 5
+the sql script file is located at <b>/sql</b> folder.
+I named it Task1 to Task5 according to task number.
+
+## JS Installation Guides
+### Task no 6 to 10
 
 - Clone the git repo
 ```
